@@ -18,7 +18,7 @@ Built using Maven as internal nuild. It supports essential banking operations, a
 - Follows the principles of REST architecture.
 - Clean separation between the controller, service, and data access layers.
 - Uses DTOs for safer data transfer.
-
+Also , for the layering part it follows a multi layered architecture. 
 ### 4. Spring Boot Integration
 - *Spring Data JPA*: Manages persistence and database operations.
 - *Service Layer*: Business logic is encapsulated within the service layer for modularity and scalability.
