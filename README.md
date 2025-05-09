@@ -1,7 +1,7 @@
 # Banking Software
 
 This is a banking application developed using Java and Spring Boot. 
-Bkult using Maven as internal nuild. It supports essential banking operations, allowing you to manage accounts, perform transactions, and view account details. Team Project.It involves effcient integration of the spring framework in JAVA language . 
+Built using Maven as internal nuild. It supports essential banking operations, allowing you to manage accounts, perform transactions, and view account details. Team Project.It involves effcient integration of the spring framework in JAVA language . 
 
 ## Features
 
